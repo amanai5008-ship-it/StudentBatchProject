@@ -1,0 +1,6 @@
+.class
+bin/
+target/
+.vscode/
+.idea/
+.env
